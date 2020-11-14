@@ -25,10 +25,10 @@ trojan多用户管理部署程序
 ###  a. 一键脚本安装
 ```
 #安装/更新
-source <(curl -sL https://raw.githubusercontent.com/bylond/trojan-web/master/install.sh)
+source <(curl -sL https://raw.githubusercontent.com/bylond/trojan-web/mod/install.sh)
 
 #卸载
-source <(curl -sL https://raw.githubusercontent.com/bylond/trojan-web/master/install.sh) --remove
+source <(curl -sL https://raw.githubusercontent.com/bylond/trojan-web/mod/install.sh) --remove
 
 ```
 安装完后输入'trojan'可进入管理程序   
